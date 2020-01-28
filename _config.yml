@@ -2,9 +2,9 @@
 title: 개발자 정재욱입니다
 email: dnrlwo11@gmail.com
 url: https://dnrlwo.github.io
-description: "다양한 것을 배우고, 다양한 것을 경험하며, 다양한 것을 나눌 수 있는 개발을 하고 싶은 정재욱입니다."
-keywords: "Dreamer"
-skills: "Web Developer"
+description: "다양한 것을 이해하고, 다양한 것을 경험하며, 다양한 것을 나눌 수 있는 개발을 하고 싶은 정재욱입니다."
+keywords: "Dreamer", "Front-End Engineer"
+skills: "Full-stack Engineer"
 meta_author: 재욱 정
 
 # Google webmaster tools
@@ -39,10 +39,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
     url: https://www.facebook.com/jung.jaeuk.9
+  - title: instagram
+    url: https://www.instagram.com/woogi_j_/
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
