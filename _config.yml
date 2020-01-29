@@ -25,7 +25,7 @@ disqus_shortname: woogie
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 005050 #18bc9c
+  primary: 117070 #18bc9c
   primary-rgb: "0, 80, 80" #"24, 288, 156"
   secondary: 696969 #2c3e50
   secondary-dark: 525252 #233140
