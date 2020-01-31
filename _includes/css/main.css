@@ -109,7 +109,23 @@ header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
 }
-
+.skill-wrap{
+    text-align: center;
+    display: inline-block;
+    border-radius: 30% 30%;
+    /**width: auto;
+    height: auto;**/
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
+}
+@media(max-width:767px) {
+    #skills .col-sm-2{
+        display: inline-block;
+        height: 100px;
+        width: 100px;
+    }
+}
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
