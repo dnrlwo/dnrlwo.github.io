@@ -120,11 +120,16 @@ header .intro-text .skills {
     box-sizing: border-box;
     overflow: hidden;
 }
+@media(min-width:768px) {
+    #skills .row:nth-child(n+2){
+        margin-bottom: 20px;
+    }
+}
 @media(max-width:767px) {
     #skills .col-sm-2{
         display: inline-block;
-        height: 100px;
-        width: 100px;
+        height: 80px;
+        width: 24%;
     }
 }
 @media(min-width:768px) {
