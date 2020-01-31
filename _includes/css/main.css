@@ -113,11 +113,12 @@ header .intro-text .skills {
     text-align: center;
     display: inline-block;
     border-radius: 30% 30%;
-    /**width: auto;
-    height: auto;**/
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
+    background-color: #eee;
+    box-sizing: border-box;
+    overflow: hidden;
 }
 @media(max-width:767px) {
     #skills .col-sm-2{
