@@ -1,6 +1,6 @@
 <!-- Skills Modals -->
 {% for skill in site.posts %}
-{% if post.path contains 'skills' %}
+{% if skill.path contains 'skills' %}
 <div class="portfolio-modal modal fade" id="portfolioModal-{{ skill.modal-id }}" tabindex="-1" role="dialog"
     aria-hidden="true">
     <div class="modal-content">
@@ -19,7 +19,7 @@
                         {% if skill.description %}
                         <p>{{ skill.description }}</p>
                         {% endif %}
-                        <ul class="list-inline item-details">
+                        <ul class="list- item-details">
                             {% if skill.client %}
                             <li>Client:
                                 <strong><a href="http://startbootstrap.com">{{ skill.client }}</a>
