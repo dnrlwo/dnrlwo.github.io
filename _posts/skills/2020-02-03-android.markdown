@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: android
+date: 2020-02-03
+project-date: April 2014
+category: Web Development
+description: <ul class="text-left"><li>메모장 어플<ul><li>Java언어를 기반으로 하는 메모장 어플<li>SQL lite DB를 활용<li> CRUD 기본 기능 탑재</ul></li><li>경복궁 프로젝트의 어플리케이션화(계획중)<ul><li>GPS를 활용한 경로추적(기존의 Thread를 활용한 기능 대체)<li>스마트폰 화면 최적화<li>정보를 공유하기 위한 웹페이지(반응형) 개설</ul></li></ul>
+
+---

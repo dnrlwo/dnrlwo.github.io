@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: css
+date: 2020-02-03
+project-date: April 2014
+category: Web Development
+description: <ul class="text-left"><li>em, rem, vh 등 반응형 웹페이지와 관련된 개념의 이해<li>@media, flex등을 이용한 반응형 웹페이지 구성<li>padding과 postion을 이용한 비율 유지 div구성<li>Navigation bar를 구성 및 hover시 drop&down 메뉴 출력<li>Transitions를 이용한 자연스러운 변화<li>Javascript와 연동하여 이미지 슬라이드 기능</ul>
+
+---

@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: html
+date: 2020-02-03
+project-date: April 2014
+category: Web Development
+description: <ul class="text-left"><li>HTML<ul><li>get, post methods에 대한 이해<li>'_method' hidden값을 이용한 rest api구성<li>구조태그를 통한 페이지 구조화<li>CSS media를 통한 반응형 웹페이지 구성</ul></li><li>JSP<ul><li>JSTL을 통한 분기 및 데이터 출력<li>EL을 활용한 기본 연산자 및 데이터 출력<li>include를 활용한 페이지 모듈화</ul></li></ul>
+
+---
