@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: docker
+date: 2020-02-03
+project-date: April 2014
+category: Web Development
+description: <ul class="text-left"><li>Mac OS로 개발시 DB운영에 필요하여 설치<li>현재 단순히 oracle 11g라는 컨테이너를 만들어서 데이터 서버로 사용<li>이미지와 컨테이너에 대한 기초적인 이해<li>DevOps를 구축하여 시스템관리에 대한 이해 및 더 나아가 AWS에서의 활용에 대한 공부 필요<ul><li><a href="https://www.fastcampus.co.kr/dev_workshop_devops/">Docker를 통한 DevOps 공부</a>(취업 후 진행)</ul><li></ul>
+
+---

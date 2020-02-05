@@ -4,9 +4,6 @@ modal-id: jquery
 date: 2020-02-03
 project-date: April 2014
 category: Web Development
-description: <ul class="text-left">
-    <li>
-    <li>
-</ul>
+description: <ul class="text-left"><li>선택자의 간편한 사용<li>CSS요소 설정 및 수정<ul><li>Class를 조작하여 CSS수정(addClass, toggleClass 등)<li>.css() 메소드를 활용한 직접적인 수정</ul></li><li>Ajax의 활용($.ajax, $.post, .load 등의 사용)<li>Apeend()와 같은 메소드를 이용한 객체 컨트롤<li>Animate()메소드를 활용한 동적 움직임 구현</ul>
 
 ---

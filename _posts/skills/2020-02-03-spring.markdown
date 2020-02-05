@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: spring
+date: 2020-02-03
+project-date: April 2014
+category: Web Development
+description: <ul class="text-left"><li>Maven프로젝트를 기반으로 하는 Spring framework사용(<a href="https://github.com/dnrlwo/academyFinal">Final Project</a>)<li>Annotation의 이해<li>DI, AOP 구현<li><a href="https://github.com/suyeon9456/YOGI">REST API프로젝트</a>(진행중)<li>현재 공부중인 분야<ul><li>Spring boot를 통한 프로젝트 진행<li>Gradle을 통한 프로젝트 구성<li>Log4j와 같은 로그 라이브러리를 통한 로그생성</ul></li></ul>
+
+---
