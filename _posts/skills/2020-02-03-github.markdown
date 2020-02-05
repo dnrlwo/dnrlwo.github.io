@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: github
+date: 2020-02-03
+project-date: April 2014
+category: Web Development
+description: <ul class="text-left"><li>git을 통한 형상관리<li>vscode와 연동하여 github사용<li>Branch를 만들어 관리 및 branch naming에 대한 이해(develop, feature, release)<li>Compare&Pull request를 통한 수정 비교 후 Merge작업</ul>
+
+---
