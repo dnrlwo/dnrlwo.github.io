@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: suyeon
-date: 2020-02-03
-project-date: April 2014
-category: Web Development
-description: <ul class="text-left"><li>Java Swing을 이용한 파일 복사 프로그램<ul><li>Thread를 통해 동시에 여러개의 파일 복사<li>Java swing의 Progressbar를 이용하여 각가의 진행정도 표시<li>java.io 패키지를 이용하여 Stream클래스 작성<li>daemon스레드를 이용하여 불완전 종료시 자동으로 작업 중지 및 취소</ul></li><li>Socket통신(TCP네트워킹)과 IO를 이용한 채팅프로그램<ul><li>ChattData라는 Object를 만들어 단순 문자열 입출력이 아닌 다양한 기능을 구현한 채팅프로그램<li>채팅방 접속시 접속유저명을 접속자 목록에 표시<li>접속자 목록을 클릭하여 귓속말기능 활성화<li>관리자가 접속자를 선택하여 강제퇴장 기능 구현</ul></li><li><a href="https://github.com/dnrlwo/academy1">경복궁 도슨트</a><ul><li>DB를 연결하여 회원관리<li>경복궁에 대해 다양한 사진과 영어 음성해설 제공<li>Icon을 움직여가며 경로추적기능 구현<li>경로 및 사진을 업로드하여 다양한 사람들과 교류가 가능한 게시판 구현</ul></li><li>Web 비즈니스 로직 모델<ul><li>Java를 이용한 Server구성<li>Controller를 통한 mapping처리<li>Dao를 구성하여 로직의 은닉화<li>Mybatis를 이용하여 DB연결 및 CRUD처리</ul></li><li>현재 공부중인 분야<ul><li>Javascript와 함께 람다식에 대한 이해 및 활용<li>NIO기반 입출력 네트워킹<li>Lombok등 다양한 라이브러리에 대한 이해<li>hashcode()와 equals() 메소드 재정의</ul></li></ul>
-
----
