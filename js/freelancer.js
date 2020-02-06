@@ -35,9 +35,3 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function () {
     $('.navbar-toggle:visible').click();
 });
-//전원버튼 클릭시 등장
-if ($("input:checkbox[id='suyeon']").is(":checked") == true) {
-    $('.appearence').css("display", "block");
-} else {
-    $('.appearence').css("display", "none");
-}

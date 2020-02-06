@@ -491,7 +491,7 @@
 </style>
 <header class="jaewook">
     <div class="power-switch">
-        <input type="checkbox" id="suyeon" />
+        <input type="checkbox" id="suyeon" value="c" onclick="check()" />
         <div class="button">
             <svg class="power-off">
                 <use xlink:href="#line" class="line" />
@@ -519,7 +519,17 @@
         </div>
         <div class="role">
             <div class="block"></div>
-            <p>Full-stack Engineer</p>
+            <p>Full-stack Developer</p>
         </div>
     </div>
 </header>
+<script>
+    const appearence = document.getElementById("appearence");
+    function check() {
+        if (this.checked == true) {
+            appearence.setAttribute("style", "display:block;");
+        } else {
+            appearence.setAttribute("style", "display:none;");
+        }
+    }
+</script>
