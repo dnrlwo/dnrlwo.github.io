@@ -35,12 +35,3 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function () {
     $('.navbar-toggle:visible').click();
 });
-
-const appearence = document.getElementById("appearence");
-function check() {
-    if (this.checked == true) {
-        appearence.setAttribute("style", "display:block;");
-    } else {
-        appearence.setAttribute("style", "display:none;");
-    }
-}
