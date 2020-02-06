@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 자바스크립트
+modal-id: vanilla
 date: 2020-02-03
 project-date: April 2014
 category: Web Development
