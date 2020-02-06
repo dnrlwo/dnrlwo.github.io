@@ -126,6 +126,7 @@ hr.star-primary:after {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
+        display: none;
     }
 
     .navbar-fixed-top .navbar-brand {
@@ -137,6 +138,7 @@ hr.star-primary:after {
 
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
+        display: block;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {

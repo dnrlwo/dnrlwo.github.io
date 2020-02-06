@@ -40,6 +40,7 @@
         align-items: center;
         width: var(--width);
         height: var(--height);
+        margin-top: 10vh;
     }
 
     .power-switch .button {
@@ -142,6 +143,7 @@
         transition: opacity .5s ease, transform .5s ease;
         transition: opacity .5s ease, transform .5s ease, -webkit-transform .5s ease;
     }
+
 
     .power-switch input:checked+.button .power-on,
     .power-switch input:checked+.button .power-off {
@@ -280,7 +282,6 @@
     /**여기부터는 이름 칸**/
     .jaewook .box {
         width: 300px;
-        height: 250px;
         position: relative;
         display: flex;
         justify-content: center;
@@ -306,7 +307,7 @@
 
     .jaewook .box .title h1 {
         font-family: 'Poppins';
-        color: #fff;
+        color: #696969;
         font-size: 32px;
         -webkit-animation: mainFadeIn 2s forwards;
         -o-animation: mainFadeIn 2s forwards;
@@ -502,6 +503,15 @@
             </svg>
         </div>
     </div>
+    <!-- SVG -->
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" id="line">
+            <line x1="75" y1="34" x2="75" y2="58" />
+        </symbol>
+        <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" id="circle">
+            <circle cx="75" cy="80" r="35" />
+        </symbol>
+    </svg>
     <div class="box">
         <div class="title">
             <span class="block"></span>
