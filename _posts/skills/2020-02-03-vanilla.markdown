@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: oracle
+date: 2020-02-03
+project-date: April 2014
+category: Web Development
+description: <ul class="text-left"><li>QueryBox tool(Windows개발시), SQL Developer(Mac개발시) 사용<li>Mybatis를 이용한 DB접근 및 처리 가능<li>기본 CRUD에 대한 완벽 이해<li>삼중Query문을 통한 페이징 처리<li>LPAD등 을 사용하여 출력 결과물 가독성 향상<li>left join과 nulls last를 사용하여 필요한 정보를 붙여서 <a href="https://github.com/dnrlwo/academyFinal/blob/master/src/MyBatis/product.xml">사용</a><li>FK를 사용하여 삭제시 Cascade를 통하여 외래키를 참조하는 값 삭제</ul>
+
+---

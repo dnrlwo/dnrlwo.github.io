@@ -17,28 +17,8 @@
                         <h2>{{ skill.title }}</h2>
                         <hr class="star-primary">
                         {% if skill.description %}
-                        <p>{{ skill.description }}</p>
+                        <div>{{ skill.description }}</div>
                         {% endif %}
-                        <!-- <ul class="list- item-details">
-                            {% if skill.client %}
-                            <li>Client:
-                                <strong><a href="http://startbootstrap.com">{{ skill.client }}</a>
-                                </strong>
-                            </li>
-                            {% endif %}
-                            {% if skill.project-date %}
-                            <li>Date:
-                                <strong><a href="http://startbootstrap.com">{{ skill.project-date }}</a>
-                                </strong>
-                            </li>
-                            {% endif %}
-                            {% if skill.category %}
-                            <li>Service:
-                                <strong><a href="http://startbootstrap.com">{{ skill.category }}</a>
-                                </strong>
-                            </li>
-                            {% endif %}
-                        </ul> -->
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
                             Close</button>
                     </div>
