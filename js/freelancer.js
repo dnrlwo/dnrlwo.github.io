@@ -36,7 +36,7 @@ $('.navbar-collapse ul li a').click(function () {
     $('.navbar-toggle:visible').click();
 });
 //전원버튼 클릭시 등장
-$('checkbox').click({
+$('#suyeon').click({
     function() {
         $('.appearence').css("display", "block");
     }
