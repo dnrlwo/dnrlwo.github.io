@@ -1,11 +1,18 @@
 <!---전원 클릭시 띄우게하는 로직-->
 <script>
    const appearence = document.getElementById("appearence");
+   let count = 0;
    function check() {
-      if (this.checked == true) {
-         appearence.setAttribute("style", "display:block;");
+      alert("aa");
+      console.log('------------------------------------');
+      console.log("아니 제발 좀");
+      console.log('------------------------------------');
+      if (count == 0) {
+         appearence.setAttribute("style", "display:block;")
+         count = 1;
       } else {
-         appearence.setAttribute("style", "display:none;");
+         appearence.setAttribute("style", "display:none;")
+         count = 0;
       }
    }
 </script>
