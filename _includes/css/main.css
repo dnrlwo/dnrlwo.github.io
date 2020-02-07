@@ -522,6 +522,7 @@ footer .footer-below {
     justify-content: center;
     -webkit-box-align: center;
     align-items: center;
+    transition: background 1s ease;
 }
 
 .power-switch {
@@ -814,6 +815,7 @@ footer .footer-below {
     display: flex;
     align-items: baseline;
     position: relative;
+    transition: all ease .5s;
 }
 
 .jaewook .box .title h1 span {

@@ -1,13 +1,19 @@
 <!---전원 클릭시 띄우게하는 로직-->
 <script>
    const appearence = document.getElementById("appearence");
+   const myname = document.getElementById("myname");
+   const su = document.getElementById("suyoen");
    let count = 0;
    function check() {
       if (count == 0) {
          appearence.setAttribute("style", "display:block;")
+         myname.setAttribute("style", "color:white");
+         su.setAttribute("style", "background:#0f4c81");
          count = 1;
       } else {
          appearence.setAttribute("style", "display:none;")
+         su.setAttribute("style", "background:#232323");
+         myname.setAttribute("style", "color:#696969");
          count = 0;
       }
    }
