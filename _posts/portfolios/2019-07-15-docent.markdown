@@ -11,6 +11,6 @@ enviroments: Window, Java, Oracle, Eclipse
 client: Start Bootstrap
 category: Web Development
 description: 해외 여행자를 위한 경복궁 영어해설 프로그램입니다.
-source: <a href="https://github.com/dnrlwo/academy1">코드 보러가기</a>
+source: <a href="https://github.com/dnrlwo/academy1">코드 보러가기</a>
 
 ---
