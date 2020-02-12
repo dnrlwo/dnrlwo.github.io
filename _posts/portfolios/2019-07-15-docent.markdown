@@ -4,13 +4,13 @@ modal-id: 1
 date: 2019-07-15
 img: palace.jpg 
 alt: image-alt
-project-name: <a href="https://github.com/dnrlwo/academy1#%EA%B2%BD%EB%B3%B5%EA%B6%81-%EC%95%88%EB%82%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8java-application">경복궁 도슨트 어플리케이션</a>
+project-name: <a href="https://github.com/dnrlwo/academy1#%EA%B2%BD%EB%B3%B5%EA%B6%81-%EC%95%88%EB%82%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8java-application" target="_blank">경복궁 도슨트 어플리케이션</a>
 project-date: 2019-07-15 ~ 07-19
 participants: 1명
 enviroments: Window, Java, Oracle, Eclipse
 client: Start Bootstrap
 category: Web Development
 description: 해외 여행자를 위한 경복궁 영어해설 프로그램입니다.
-source: <a href="https://github.com/dnrlwo/academy1">코드 보러가기</a>
+source: <a href="https://github.com/dnrlwo/academy1" target="_blank">코드 보러가기</a>
 
 ---
