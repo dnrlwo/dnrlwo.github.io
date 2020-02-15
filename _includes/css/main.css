@@ -168,7 +168,9 @@ hr.star-primary:after {
 .navbar-inverse {
     border: 0;
 }
-
+.navbar #mini_toggle{
+    opacity: 0;
+}
 section {
     padding: 100px 0;
 }
