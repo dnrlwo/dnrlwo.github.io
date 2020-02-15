@@ -529,9 +529,10 @@ footer .footer-below {
     position: absolute;
     top: 0;
     left: 50%;
-    padding: 0.8rem 1rem;
     border-radius: 40px;
-    font-size: 0.8rem;
+    text-align: center;
+    width: 200%;
+    padding: 0.8rem 1rem;
     font-weight: bold;
     opacity: 0;
     pointer-events: none;
@@ -541,8 +542,10 @@ footer .footer-below {
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
     z-index: 1;
+    background-color: wheat;
 }
 .jaewook #tooltip::after{
+    border-top-color: wheat;
     display: block;
     position: absolute;
     bottom: 1px;
@@ -569,7 +572,7 @@ footer .footer-below {
     align-items: center;
     width: var(--width);
     height: var(--height);
-    margin-top: 10vh;
+    /* margin-top: 10vh; */
 }
 
 .power-switch .button {
