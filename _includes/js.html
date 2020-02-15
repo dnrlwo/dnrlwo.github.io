@@ -3,20 +3,30 @@
    const appearence = document.getElementById("appearence");
    const myname = document.getElementById("myname");
    const su = document.getElementById("suyeon");
-   let count = 0;
+   let show = false;
    function check() {
-      if (count == 0) {
+      if (show === false) {
          appearence.setAttribute("style", "display:block;")
          myname.setAttribute("style", "color:white");
          su.setAttribute("style", "background:#0f4c81");
-         count = 1;
+         show = true;
       } else {
          appearence.setAttribute("style", "display:none;")
          su.setAttribute("style", "background:#232323");
          myname.setAttribute("style", "color:#696969");
-         count = 0;
+         show = false;
       }
    }
+   function scrollReciver(e) {
+      console.log('------------------------------------');
+      console.log(window.scrollY);
+      console.log('------------------------------------');
+      if (window.scrollY !== 0) {
+         console.log("removeReciever");
+         window.removeEventListener("scroll", scrollReciver);
+      }
+   }
+   window.addEventListener("scroll", scrollReciver);
 </script>
 <!-- jQuery Version 1.11.0 -->
 <script src="{{ "/js/jquery-1.11.0.js" }}"></script>
