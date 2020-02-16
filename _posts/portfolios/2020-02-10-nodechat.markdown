@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2020-02-10
-img: chatting.jpg 
+img: chatting.png
 alt: image-alt
 project-name: <a href="https://github.com/dnrlwo/UNImessenger" target="_blank">UNI 메신져</a>
 project-date: 2020-02-08 ~ 02-10

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2019-10-14
-img: shopping.jpg 
+img: shopping.png
 alt: image-alt
 project-name: <a href="https://github.com/dnrlwo/academyFinal/blob/master/README.md" target="_blank">청년 쇼핑몰</a>
 project-date: 2019-10-14 ~ 11-11

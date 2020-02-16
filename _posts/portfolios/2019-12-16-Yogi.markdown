@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2019-12-16
-img: palace.jpg 
+img: yogi.png
 alt: image-alt
 project-name: <a href="https://github.com/suyeon9456/YOGI" target="_blank">숙박 통합 사이트</a>
 project-date: 2019-12-16 ~ 현재 진행중

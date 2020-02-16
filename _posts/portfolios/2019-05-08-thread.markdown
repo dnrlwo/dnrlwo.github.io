@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2019-05-08
-img: thread.jpg 
+img: thread.png
 alt: image-alt
 project-name: <a href="https://github.com/dnrlwo/javaThread" target="_blank">Java Thread</a>
 project-date: 2019-05-08
