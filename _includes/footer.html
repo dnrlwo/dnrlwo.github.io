@@ -3,7 +3,7 @@
     <div class="footer-above">
         <div class="container">
             <div class="row">
-                <div class="footer-col col-md-4">
+                <div class="footer-col col-md-4 text-left">
                     <h3>{{ site.footer.social }}</h3>
                     <ul class="list-inline">
                         {% for network in site.social %}
@@ -14,7 +14,7 @@
                         {% endfor %}
                     </ul>
                 </div>
-                <div class="footer-col col-md-8">
+                <div class="footer-col col-md-8 text-left">
                     <h3>{{ site.footer.support }}</h3>
                     <p>
                         {% for support in site.support %}
@@ -29,7 +29,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+                    Copyright &copy; {{ site.footer.copyright }} &amp; Jaewook 20{{ site.time | date: '%y' }}
                 </div>
             </div>
         </div>
