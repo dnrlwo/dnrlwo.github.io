@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 4
+date: 2019-12-16
+img: palace.jpg 
+alt: image-alt
+project-name: <a href="https://github.com/suyeon9456/YOGI" target="_blank">숙박 통합 사이트</a>
+project-date: 2019-12-16 ~ 현재 진행중
+participants: 2명
+enviroments: Mac OS, Java, Spring, Oracle, JS, JSP, Tomcat, VS code
+client: Start Bootstrap
+category: Web Development
+description: 에어비앤비를 바탕으로 진행중인 숙박 웹 어플리케이션입니다. 현재 React.js나 node.js 등 다른 프레임워크 및 라이브러리를 사용하여 개발하기 위해 중단중입니다. 초기 작업시 .do의 mapping이 아닌 <b>rest API</b>를 구현하였습니다. 또한 git을 이용하여 형상관리를 하였습니다.
+source: <a href="https://github.com/suyeon9456/YOGI" target="_blank">코드 보러가기</a>
+
+---
