@@ -4,6 +4,6 @@ modal-id: mongodb
 date: 2020-02-03
 project-date: April 2014
 category: Web Development
-description: <ul class="text-left"><li>JSON형태로 저장하여 사용<li>Collection을 통한 관리<li>ensureIndex와 같은 인덱싱처리<li>Node JS와 연동하여 사용<ul>Ojbect data Modeling인 mongoose 라이브러리 사용</ul></li></ul>
+description: <ul class="text-left"><li>JSON형태로 저장하여 사용<li>Collection을 통한 관리<li>ensureIndex와 같은 인덱싱처리<li>Node JS와 연동하여 사용<ul>Ojbect data Modeling인 mongoose 라이브러리 사용</ul></li></ul>
 
 ---
