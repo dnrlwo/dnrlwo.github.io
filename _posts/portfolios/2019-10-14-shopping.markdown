@@ -10,7 +10,7 @@ participants: 7명
 enviroments: Window, Java, Spring, Oracle, JS, JSP, Tomcat, Eclipse
 client: Start Bootstrap
 category: Web Development
-description: 국비교육훈련 파이널 프로젝트입니다. DB구성 및 <a href="https://balsamiq.com/wireframes/" target="_blank">발사믹 목업</a>을 이용한 스토리 보드를 계획하였습니다. 이후 회원관리 분야를 통하여 시스템의 기조를 잡았고 이후 메인페이지, 상품관리, 상품등록(Naver Editor), 결제관리, 상품리스트 등 <a href="https://github.com/dnrlwo/academyFinal/blob/master/README.md#23-%ED%95%84%EC%9E%90-%ED%8C%8C%ED%8A%B8-%EB%B6%84%EC%84%9D" target="_blank">모든 분야</a>에 참여하였고 종합하여 오류를 수정 보완하였다. 
+description: 국비교육훈련 파이널 프로젝트입니다. DB구성 및 <a href="https://balsamiq.com/wireframes/" target="_blank">발사믹 목업</a>을 이용한 스토리 보드를 계획하였습니다. 이후 회원관리 분야를 통하여 시스템의 기조를 잡았고 이후 메인페이지, 상품관리, 상품등록(Naver Editor), 결제관리, 상품리스트 등 <a href="https://github.com/dnrlwo/academyFinal/blob/master/README.md#23-%ED%95%84%EC%9E%90-%ED%8C%8C%ED%8A%B8-%EB%B6%84%EC%84%9D" target="_blank">모든 분야</a>에 참여하였고 종합하여 오류를 수정 보완하였습니다. 
 source: <a href="https://github.com/dnrlwo/academyFinal" target="_blank">코드 보러가기</a>
 
 ---

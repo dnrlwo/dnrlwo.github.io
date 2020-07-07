@@ -80,6 +80,9 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+#appearence .container{
+    min-height: 100vh;
+}
 
 .skill-wrap{
     text-align: center;

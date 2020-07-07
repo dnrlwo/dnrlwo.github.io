@@ -5,7 +5,7 @@ date: 2019-12-16
 img: yogi.png
 alt: image-alt
 project-name: <a href="https://github.com/suyeon9456/YOGI" target="_blank">숙박 통합 사이트</a>
-project-date: 2019-12-16 ~ 현재 진행중
+project-date: 2019-12-16 ~ 현재 진행 중단
 participants: 2명
 enviroments: Mac OS, Java, Spring, Oracle, JS, JSP, Tomcat, VS code
 client: Start Bootstrap

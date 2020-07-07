@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 6
+date: 2020-06-05
+img: futchall.png
+alt: image-alt
+project-name: <a href="https://github.com/dnrlwo/futchall" target="_blank">구장깨기</a>
+project-date: 2020-06-05 ~ 진행중
+participants: 1명
+enviroments: Mac OS, React, Next.js, Node.js, Mysql, SCSS, JS
+client: Start Bootstrap
+category: Web Development
+description: 리액트와 Next FrameWork를 사용하여 만든 구장깨기(FutChall) 어플리케이션입니다.
+source: <a href="https://github.com/dnrlwo/futchall" target="_blank">코드 보러가기</a>
+
+---
